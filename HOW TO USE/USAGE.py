@@ -1,0 +1,2 @@
+from facemood import emotion_predictor
+emotion_predictor.predict_emotion_from_camera()
