@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: facemood
+Version: 1.0.0
+Summary: A library for emotion prediction from camera input.
+Home-page: https://github.com/emirkaanozdemr/facemood
+Author: Emir Kaan Özdemir
+Author-email: emirkaanbulut08@gmail.com
+License: Apache License 2.0
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: opencv-python
+Requires-Dist: Pillow
+Requires-Dist: numpy
+Requires-Dist: tensorflow
+
+# facemood
+
+`facemood` is a Python library for real-time emotion prediction from camera input. It uses a pre-trained deep learning model to analyze facial expressions and classify emotions in real-time.
+
+## Features
+
+- Real-time emotion detection using camera input
+- Pre-trained TensorFlow model for accurate emotion classification
+- User-friendly and easy to use
+
+## Installation
+
+To install `facemood`, you can use pip. You can either install it from PyPI or directly from the source.
+
+### Install from PyPI
+
+```bash
+pip install facemood

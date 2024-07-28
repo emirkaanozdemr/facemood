@@ -1,0 +1,11 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+facemood/__init__.py
+facemood/emotion_predictor.py
+facemood.egg-info/PKG-INFO
+facemood.egg-info/SOURCES.txt
+facemood.egg-info/dependency_links.txt
+facemood.egg-info/requires.txt
+facemood.egg-info/top_level.txt
