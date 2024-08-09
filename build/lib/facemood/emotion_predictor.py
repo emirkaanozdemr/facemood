@@ -7,7 +7,7 @@ import pkg_resources
 def predict_emotion_from_camera():
     print("Made by Emir Kaan Özdemir.\n")
     print("License: Apache License 2.0\n")
-    print("Version: 1.0.0\n")
+    print("Version: 1.0.1\n")
     print("Please follow me on Github: https://github.com/emirkaanozdemr.\n")
     print("My Hugging Face: https://huggingface.co/emirkaanozdemr. You can find the model in my Hugging Face.\n")
     print("This project is open source. You can contribute to it in my Github. Thank you!\n")
@@ -42,7 +42,7 @@ def predict_emotion_from_camera():
         cv2.imshow('Camera', frame)
         print("Made by Emir Kaan Özdemir.\n")
         print("License: Apache License 2.0\n")
-        print("Version: 1.0.0\n")
+        print("Version: 1.0.1\n")
         print("Please follow me on Github: https://github.com/emirkaanozdemr.\n")
         print("My Hugging Face: https://huggingface.co/emirkaanozdemr. You can find the model in my Hugging Face.\n")
         print("This project is open source. You can contribute to it in my Github. Thank you!\n")
