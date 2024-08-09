@@ -4,6 +4,7 @@ README.md
 setup.py
 facemood/__init__.py
 facemood/emotion_predictor.py
+facemood/model__version1.0.0__.h5
 facemood.egg-info/PKG-INFO
 facemood.egg-info/SOURCES.txt
 facemood.egg-info/dependency_links.txt

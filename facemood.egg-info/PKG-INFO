@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: facemood
-Version: 1.0.0
+Version: 1.0.1
 Summary: A library for emotion prediction from camera input.
 Home-page: https://github.com/emirkaanozdemr/facemood
 Author: Emir Kaan Özdemir
