@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='facemood',
-    version='1.0.0',
+    version='1.0.1',
     author='Emir Kaan Özdemir',
     author_email='emirkaanbulut08@gmail.com',
     description='A library for emotion prediction from camera input.',
@@ -11,6 +11,9 @@ setup(
     url='https://github.com/emirkaanozdemr/facemood',
     packages=find_packages(),
     include_package_data=True,
+    package_data={
+        'facemood': ['model__version1.0.0__.h5'],
+    },
     install_requires=[
         'opencv-python',
         'Pillow',
