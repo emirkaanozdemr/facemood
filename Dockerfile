@@ -14,4 +14,5 @@ RUN pip install --upgrade pip \
 
 COPY . .
 
+
 CMD ["python", "setup.py"]
