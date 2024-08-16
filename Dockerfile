@@ -14,5 +14,4 @@ RUN pip install --upgrade pip \
 
 COPY . .
 
-# Konteyneri başlatırken çalışacak komutu belirleyin
 CMD ["python", "setup.py"]
